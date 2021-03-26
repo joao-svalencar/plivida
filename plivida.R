@@ -1,8 +1,4 @@
 library(raster)
-library(sf)
-
-#####MUDANÇA PRA VER SE APARECE#####
-
 library(sf) #loads package ai aiaiai
 
 #biomas <- st_read("bioma_250.shp") #shapes do IBGE dão o maior B.O.
