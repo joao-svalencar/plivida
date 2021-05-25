@@ -1,4 +1,3 @@
-#testing GIT
 library(raster)
 library(sf) #loads package ai aiaiai
 
